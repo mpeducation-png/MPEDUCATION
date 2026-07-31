@@ -8,48 +8,26 @@
 <body>
 
     <h1>Welcome to MP Education</h1>
-    <p>Learn Today, Build Your Future</p>
-<p>Quality Education for Everyone</p>
+    <p>Our website is coming soon.</p>
+
 </body>
 </html>
-<h2>O/L Subjects</h2>
+<h1>Education Hub</h1>
 
-<p>Sinhala</p>
-<p>English</p>
-<p>Mathematics</p>
-<p>Science</p>
-<p>History</p>
-<p>Religion</p>
-<p>Geography</p>
-<p>Civic Education</p>
-<p>Business & Accounting Studies</p>
-<p>ICT</p>
-<p>Health & Physical Education</p>
-<p>Art</p>
-<p>Music</p>
-<p>Drama & Theatre</p>
+<h2>Choose Your Category</h2>
 
-<h2>A/L Subjects</h2>
+<div>
+    <button>O/L</button>
+    <button>A/L</button>
+    <button>Commerce</button>
+    <button>Science</button>
+    <button>Arts</button>
+    <button>Technology</button>
+</div>
 
-<p>Combined Mathematics</p>
-<p>Physics</p>
-<p>Chemistry</p>
-<p>Biology</p>
-<p>Science for Technology</p>
-<p>Engineering Technology</p>
-<p>Information & Communication Technology</p>
-<p>Economics</p>
-<p>Business Studies</p>
-<p>Accounting</p>
-<p>Geography</p>
-<p>History</p>
-<p>Political Science</p>
-<p>Logic & Scientific Method</p>
-<p>Sinhala</p>
-<p>English</p>
-<p>French</p>
-<p>German</p>
-<p>Japanese</p>
-<p>Art</p>
-<p>Music</p>
-<p>Drama & Theatre</p>
+<h2>Learning Resources</h2>
+
+<div>
+    <button>📝 Notes</button>
+    <button>🎥 Videos</button>
+</div>
